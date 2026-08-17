@@ -1,16 +1,16 @@
 This repository contains a reference implementation of code supporting the
 scientific paper:
 
->Moment problems and bounds for matrix-valued smeared spectral functions
->R. Abbott, W.I. Jay, and P.R. Oare
+>Moment problems and bounds for matrix-valued smeared spectral functions  
+>R. Abbott, W.I. Jay, and P.R. Oare  
 >https://arxiv.org/pdf/2508.01377.
 
 This paper computes tight, rigorous bounds on certain smeared spectral functions
 using Euclidean-time inputs viewed as truncated moment sequences.
 These bounds are computed using the general solution to the truncated moment problem, which has been derived in
 
->Analytic theory of a class of interpolation problems
->I. V. Kovalishina
+>Analytic theory of a class of interpolation problems  
+>I. V. Kovalishina  
 >Mathematics of the USSR-Izvestiya 22, 419 (1984).
 
 The reference implementation is contained in `hamburger_mp.py`.
