@@ -1,0 +1,14 @@
+[project]
+name = "hamburgers-wjay"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "mpmath>=1.4.1",
+    "numpy>=1.26.0",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    "tqdm>=4.70.0",
+]
